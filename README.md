@@ -28,6 +28,10 @@
 - 提供各種資產類型的 Smart Contract Library，包含 Stock、Bonds。
 - 建構多方參與者監管的信任模型。
 
+### Product Life Cycle
+
+![Product Life Cycle](./Product_Life_Cycle.png)
+
 ### Proof of Assets Process
 
 資產驗證流程
@@ -101,4 +105,6 @@ Cryptographic Assets Market 會有多方獨立的參與者為 Cryptographic Asse
 
 Cryptographic Assets Market 將提供一個透明、容易審計、安全的智能合約平台，所有智能合約利用 Ethereum 去中心化的共識系統與 IPFS 在區塊鏈實現 Cryptographic Assets。
 
+## Further Reading
+Ethereum White Paper: https://github.com/ethereum/wiki/wiki/White-Paper
 
