@@ -30,7 +30,7 @@
 
 ### Product Life Cycle
 
-![Product Life Cycle](./Product_Life_Cycle.png)
+![Product Life Cycle](./images/Product_Life_Cycle.png)
 
 ### Proof of Assets Process
 
