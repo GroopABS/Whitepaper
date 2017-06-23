@@ -36,7 +36,7 @@
 
 資產驗證流程
 
-
+![Proof of Assets](./images/Proof_of_Assets.png)
 
 #### Audit Process
 
@@ -46,29 +46,35 @@
 
 Cryptographic Assets 建構流程
 
-本平台將輔助創建 Smart Contract，透過資產認證的過程，選擇 Smart Contract 的範本來部署並且產生對應的 tokens
+本平台將輔助創建 Smart Contract，透過資產認證確認標的，選擇不同 Smart Contract 的範本產生對應的 Token。
 
 #### Transfer Token Process
 
-Token 交易流程
+Token 交易流程，次級市場交易模式
 
-#### Distributes the Interest Process
+#### Distributes Interest/Dividend Process
 
 利息分派流程
 
 ## Proof of Asset / Cryptographic Audit / Proof of Solvency 
 
-資產認證原則
+資產認證將驗證透過多方公正單位提出的資產證明來認證，只有透過資產證明流程才可以發布 Token 至 Ethereum 區塊鏈上。
+資產認證文件將會放到 IPFS 上，建立與智能合約的連結方便隨時查驗。
+償還能力認證將透過檢驗發債方的償債能力來決定利率與發債的規模。
 
-### 資產發行商
+### Proof of Asset Participants
+
+參與者均為區塊鏈外的實際公司或者單位。
+
+#### 資產發行商
 
 Cryptographic Assets Market 允許任何通過資產認證的資產發行商，透過平台發行屬於自己的 Token，來錨定資產，並透過 Smart Contract 實現交易模式。
 
-### 獨立審計商
+#### 獨立審計商
 
 Cryptographic Assets Market 有配合的信用評估公司，可以協助資產發行商驗證資產的價值與數量，協助資產發行商發行確切數量的 Token。
 
-### 多方信任機制
+#### 多方信任機制
 
 Cryptographic Assets Market 會有多方獨立的參與者為 Cryptographic Assets 提供一個透明的平台。
 
@@ -76,11 +82,11 @@ Cryptographic Assets Market 會有多方獨立的參與者為 Cryptographic Asse
 
 智能合約將提供三種範本：
 - Bonds
-    - 債券型智能合約，透過一定週期配發利息，到期後還款
+    - 債券型智能合約，透過一定週期配發利息，到期後還款。
 - Stocks
-    - 股票型智能合約，透過一定程度取得股權憑證，支援股利股息配發，隨時隨地可以交易兌現
+    - 股票型智能合約，透過一定程度取得股權憑證，支援股利股息配發，允許交易與兌現。
 - Assets
-	- 資產型智能合約，Token 為固定資產的一定比例額度，合約為一種資產憑證
+	- 資產型智能合約，Token 為固定資產的一定比例額度，合約資產憑證載體，允許交易與兌現。
 
 ## Oracle Entities
 
