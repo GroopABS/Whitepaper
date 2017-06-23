@@ -32,9 +32,9 @@
 
 ![Product Life Cycle](./images/Product_Life_Cycle.png)
 
-### Proof of Assets Process
+### Proof of Assets / Proof of Solvency Process
 
-資產驗證流程
+資產驗證流程包含資產驗證與償還能力審查。
 
 ![Proof of Assets](./images/Proof_of_Assets.png)
 
@@ -56,9 +56,9 @@ Token 交易流程，次級市場交易模式
 
 利息分派流程
 
-## Proof of Asset / Cryptographic Audit / Proof of Solvency 
+## Proof of Asset / Proof of Solvency / Cryptographic Audit
 
-資產認證將驗證透過多方公正單位提出的資產證明來認證，只有透過資產證明流程才可以發布 Token 至 Ethereum 區塊鏈上。
+資產認證將驗證透過多方公正單位提出的資產證明來認證，只有透過資產證明流程才可以發布 Smart Contract 至 Ethereum 區塊鏈上。
 資產認證文件將會放到 IPFS 上，建立與智能合約的連結方便隨時查驗。
 償還能力認證將透過檢驗發債方的償債能力來決定利率與發債的規模。
 
