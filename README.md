@@ -38,15 +38,11 @@
 
 ![Proof of Assets](./images/Proof_of_Assets.png)
 
-#### Audit Process
-
-多方參與者監控流程
-
 #### Deploy Smart Contract Process
 
-Cryptographic Assets 建構流程
-
 本平台將輔助創建 Smart Contract，透過資產認證確認標的，選擇不同 Smart Contract 的範本產生對應的 Token。
+
+![Deploy Smart Contract](./images/Deploy_Smart_Contract.png)
 
 #### Transfer Token Process
 
