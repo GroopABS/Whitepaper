@@ -8,7 +8,7 @@
 
 ## Key Products
 
-- CryptoABS 平台。
+- CryptoABS 平台
     - 資產證明文件。
     - 償還能力證明文件。
     - 提供次級市場交易。
@@ -16,7 +16,7 @@
     - 資產證明服務。
     - 審計文件。
     - 監管單位數位簽章(發行商、審計商)。
-- Asset-backed securities Token
+- Crypto Asset-Backed Security
 	- 每個 Token 背後都有真實資產單位做擔保。
 - Open Source 項目
     - 提供一套 Smart Contract 的 Library 來輔助 Cryptographic Assets 的開發。
@@ -50,11 +50,13 @@
 
 Token 交易流程，次級市場交易模式
 
+![Token Trade](./images/Token_Trade.png)
+
 ### Distributes Interest/Dividend Process
 
 利息分派流程
 
-## Proof of Asset / Proof of Solvency / Cryptographic Audit
+## Proof of Asset / Proof of Solvency / Cryptographic Assets Audit
 
 資產認證將驗證透過多方公正單位提出的資產證明來認證，只有透過資產證明流程才可以發布 Smart Contract 至 Ethereum 區塊鏈上。
 資產認證文件將會放到 IPFS 上，建立與智能合約的連結方便隨時查驗。
