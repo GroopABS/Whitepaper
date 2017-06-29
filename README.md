@@ -52,9 +52,9 @@ Token 交易流程，次級市場交易模式
 
 ![Token Trade](./images/Token_Trade.png)
 
-### Distributes Interest/Dividend Process
+### Interest/Dividend Process
 
-利息分派流程
+![Issue Interest](./images/Issue_Interest_Flow.png)
 
 ## Proof of Asset / Proof of Solvency / Cryptographic Assets Audit
 
