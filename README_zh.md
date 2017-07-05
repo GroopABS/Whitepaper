@@ -13,7 +13,7 @@
 
 ## 眾籌項目
 
-[CABS](./tokens/CABS_TOKEN.md): 2017-07-14 至 2017-08-04
+[CABS](./tokens/CABS/CABS_TOKEN_zh.md): 2017-07-14 至 2017-08-04
 
 ----
 
