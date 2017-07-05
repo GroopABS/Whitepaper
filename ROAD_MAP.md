@@ -2,41 +2,39 @@
 
 ## Terminology
 
-- **平台**：即發債融資平台，整合合約之佈署及控管、合約範本參考（github）、技術文件、債券資訊揭露（web app）、會員中心（web app）、token交易次級市場（web app）、coin交易所（web app）、融資申請（web app）、PoA、融資輔導，自動及半自動化流程、各種資料庫（會員資料、往來交易紀錄、真實財產資料）...等功能之服務系統。
-- **Coin**：泛指各種虛擬貨幣如BTC（比特幣）及ETH（以太幣）。
-- **Token**：此平台上發行債券之所有權。
-- **參與者**：token之持有者。
-- **會員**：於平台上註冊成功之用戶（驗證相關資料），分為商務（公司）會員及個人會員。
-- **合約**：佈署於以太坊上之智能合約（可視為具有AI之 agent，依預先寫好的程式碼及少量可由外部調控的參數來運行），依送入之訊息，自動執行相關指令（如購入及配息）。
+- **Platform**: Financing platform, integration contract deployment and control, contract model reference (github), technical documents, bond information disclosure, member center, Token trading market, exchange, financing application, KYC / AML, PoA (Proof of Assets), financing counseling, automatic and semi-automated processes, various database (membership information, transaction history, real property information) ... and other functions of the service system.
+- **Coin**: Refers to a variety of virtual currencies such as BTC (Bitcoin) and ETH (in currency).
+- **Token**: Ownership of bonds issued on this platform.
+- **participant**: Token holders.
+- **Members**: Registered users on the platform (validation of relevant information), divided into business (company) members and individual members.
+- **Contract**: Smart contract (which can be considered as an agent with AI, which can be run by pre-written code and a small number of externally controlled parameters) Execute relevant instructions (such as purchase and interest).
 
 ----
 
 ## Phase I: CryptoABS Platform (Q3 2017)
 
-- 結合web technology、automatic backend service及以太坊之智能合約打造發債融資平台，發行可與有形資產作連結之有價證券（即CryptoABS token）。
-- 首發為固定利率債券（3年期，年利率8%，每月配息、到期一次還本），其標的資產為車貸，票面金額以美金計價（ETH/USD匯率為上個月之平均值）。
-- 預估首發總金額為USD 1M（1 token = USD 1），發行成功平台即可獲得ETH。
-- 參與者用錢包自行將ETH打入合約購得token。
-- 參與者之間可交換token。
-- 平台以token為依據定期派發利息（ETH/USD匯率為上週平均）至合約。
-- 參與者自行向合約索取利息，及到期所退還之本金。
-- 於平台上揭露目前已發行token之相關公開資訊，發行量、總額、已派發利息等。
-- 會員中心：以email綁定，登記會員之ETH (or BTC) account address（不代管會員私鑰）、二階段驗證。
-- 會員可於平台上檢視所持有之 token 數、未提領之利息。
-- 會員可收到相關的最新資訊。
+- Build a bond financing platform with web technology, automatic backend service and etherfloft to issue securities that can be linked to tangible assets (ie CryptoABS token).
+- The initial issue of fixed-rate bonds, the underlying assets for the car loan, the face value of the dollar-denominated (ETH / USD exchange rate for the average of the previous month).
+- Estimated total starting amount is $ 1,000,000 USD (1 token = $ 1 USD).
+- Participants use their wallets to own ETH into the contract.
+- Exchangeable between participants.
+- The platform distributes interest on a regular basis (ETH / USD exchange rate is last week average) to the contract.
+- The participant solicits interest on the contract and the principal of the refund.
+- Disclosure of the relevant public information, circulation, total amount, and interest paid on the platform.
+- Member Center: ETH (or BTC) account address (without hosting member private key), two-factor verification.
+- Members can view the number of token held by the member on the platform.
+- Members receive relevant updates.
 
 ## Phase II: Decentralized Second Market (Q4 2017)
 
-- 導入次級市場交易機制，提供會員order book matching及第三方履約保證，讓會員（不代管會員私鑰）可於平台上交易 token（以ETH為流通貨幣）。
-- 平台顯示各種token之價量走勢圖、歷史價格、order book資訊等。
-- 初階交易所：針對特定coin，平台收現金（買入價）賣coin，並收coin給現金（賣出價）。
-- 持續發債並建立發債流程，專人輔導商務會員線下將其有形資產發債融資（客戶獲得ETH）。
+- Import the secondary market trading mechanism to provide membership order book matching and third party performance guarantee, so that members (not hosting the private key) can be traded on the platform token (ETH for the currency).
+- Platform shows a variety of token price charts, historical prices, order book information.
+- Exchange: for a specific coin, the platform to receive cash (buy price) to sell coin, and received coin to cash (selling price).
+- Continue to issue bonds and the establishment of the debt process, personal counseling business members under the line of its tangible assets financing.
 
 ## Phase III: Exchange (Q2 2018)
 
-- 提供中階交易所功能，自動化處理coin買賣單，收款及付款等流程（串金流）。
-- 次級市場串交易所，市場上之交易可以各類貨幣進行。
-- 於平台上顯示指定coin之價量走勢圖及歷史價格等。
-- 輔導商務會員線上申請發債融資，半自動化審核，整合交易所功能。
-
-
+- Provide intermediate exchange function, automatic processing coin purchase orders, payment and payment processes (combined with the flow of money).
+- Second market with the exchange, the market transactions can be carried out in various currencies.
+- On the platform to display the price of coin specified price and historical prices.
+- Counseling business members online application for debt financing, semi-automated audit, integration of exchange functions.
