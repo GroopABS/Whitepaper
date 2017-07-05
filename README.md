@@ -19,7 +19,7 @@
 - Crypto Asset-Backed Security
 	- 每個 Token 背後都有真實資產單位做擔保。
 - Open Source 項目
-    - 提供一套 Smart Contract 的 Library 來輔助 Cryptographic Assets 的開發。
+    - Cryptographic Assets Smart Contract Library
 
 
 ## Key Processes
@@ -59,7 +59,7 @@ Token 交易流程，次級市場交易模式
 ## Proof of Asset / Proof of Solvency / Cryptographic Assets Audit
 
 資產認證將驗證透過多方公正單位提出的資產證明來認證，只有透過資產證明流程才可以發布 Smart Contract 至 Ethereum 區塊鏈上。
-資產認證文件將會放到 IPFS 上，建立與智能合約的連結方便隨時查驗。
+資產認證資訊將會放到 IPFS 上，建立與智能合約的連結方便隨時查驗。
 償還能力認證將透過檢驗發債方的償債能力來決定利率與發債的規模。
 
 ### Proof of Asset Participants
@@ -82,11 +82,14 @@ CryptoABS 平台會有多方獨立的參與者為 Cryptographic Assets 提供一
 
 智能合約將提供三種範本：
 - Bonds
-    - 債券型智能合約，透過一定週期配發利息，到期後還款。
+    - 債券型智能合約，支援週期性配發利息，到期後還款。
 - Stocks
-    - 股票型智能合約，透過一定程度取得股權憑證，支援股利股息配發，允許交易與兌現。
+    - 股票型智能合約，股權憑證，支援股利股息配發，允許交易與兌現。
 - Assets
-	- 資產型智能合約，Token 為固定資產的一定比例額度，合約資產憑證載體，允許交易與兌現。
+	- 資產型智能合約，Token 是資產的資產憑證載體，允許交易與兌現。
+
+智能合約將提供去中心化交易功能：
+- Order book
 
 ## Oracle Entities
 
