@@ -11,7 +11,7 @@
 
 ----
 
-## Phase I (2017.Q3)
+## Phase I: CryptoABS Platform (Q3 2017)
 
 - 結合web technology、automatic backend service及以太坊之智能合約打造發債融資平台，發行可與有形資產作連結之有價證券（即CryptoABS token）。
 - 首發為固定利率債券（3年期，年利率8%，每月配息、到期一次還本），其標的資產為車貸，票面金額以美金計價（ETH/USD匯率為上個月之平均值）。
@@ -25,14 +25,14 @@
 - 會員可於平台上檢視所持有之 token 數、未提領之利息。
 - 會員可收到相關的最新資訊。
 
-## Phase II (2017.Q4)
+## Phase II: Decentralized Second Market (Q4 2017)
 
 - 導入次級市場交易機制，提供會員order book matching及第三方履約保證，讓會員（不代管會員私鑰）可於平台上交易 token（以ETH為流通貨幣）。
 - 平台顯示各種token之價量走勢圖、歷史價格、order book資訊等。
 - 初階交易所：針對特定coin，平台收現金（買入價）賣coin，並收coin給現金（賣出價）。
 - 持續發債並建立發債流程，專人輔導商務會員線下將其有形資產發債融資（客戶獲得ETH）。
 
-## Phase III (2018.Q2)
+## Phase III: Exchange (Q2 2018)
 
 - 提供中階交易所功能，自動化處理coin買賣單，收款及付款等流程（串金流）。
 - 次級市場串交易所，市場上之交易可以各類貨幣進行。
