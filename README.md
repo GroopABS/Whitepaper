@@ -13,7 +13,7 @@
 
 ## Crowdsale Project
 
-[CABS](./tokens/CABS/CABS_TOKEN_cn.md): 2017-07-14 to 2017-08-04
+[CABS](./tokens/CABS/CABS_TOKEN_en.md): 2017-07-14 to 2017-08-04
 
 ----
 
