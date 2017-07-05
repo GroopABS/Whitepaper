@@ -24,13 +24,13 @@
 ## Key Products
 
 - CryptoABS platform
-    - Certificate of Assets.
-    - Certificate of repayment ability.
-    - Provide secondary market transactions.
-    - Assist in creating smart contracts with different asset types.
-    - Certificate of Assets.
-    - audit documents.
-    - Signature of regulatory unit (issuer, auditor).
+    - Certificate of Assets.
+    - Certificate of repayment ability.
+    - Provide secondary market transactions.
+    - Assist in creating smart contracts with different asset types.
+    - Certificate of Assets.
+    - audit documents.
+    - Signature of regulatory unit (issuer, auditor).
 - Crypto Asset-Backed Security
 - Every Token has a real asset unit behind it.
 - Open Source project
@@ -47,29 +47,29 @@ Constructing the Trust Model of Multi - party Participant Supervision.
 
 ### Product Life Cycle
 
-![Product Life Cycle](./images/Product_Life_Cycle.png)
+![Product Life Cycle](./images/en/Product_Life_Cycle.png)
 
 ### Proof of Assets / Proof of Solvency Process
 
 The asset verification process includes asset verification and repayment capacity review.
 
-![Proof of Assets](./images/Proof_of_Assets.png)
+![Proof of Assets](./images/en/Proof_of_Assets.png)
 
 ### Deploy Smart Contract Process
 
 This platform will help create Smart Contract, identify the subject with asset authentication, and select the template for the different Smart Contract to generate the corresponding Token.
 
-![Deploy Smart Contract](./images/Deploy_Smart_Contract.png)
+![Deploy Smart Contract](./images/en/Deploy_Smart_Contract.png)
 
 ### Transfer Token Process
 
 Token trading process, sub - market trading model
 
-![Token Trade](./images/Token_Trade.png)
+![Token Trade](./images/en/Token_Trade.png)
 
 ### Interest / Dividend Process
 
-![Issue Interest] (./images/Issue_Interest_Flow.png)
+![Issue Interest](./images/en/Issue_Interest_Flow.png)
 
 ## Proof of Asset / Proof of Solvency / Cryptographic Assets Audit
 

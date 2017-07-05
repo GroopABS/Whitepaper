@@ -2,7 +2,18 @@
 
 ## Terminology
 
-- **Platform**: Financing platform, integration contract deployment and control, contract model reference (github), technical documents, bond information disclosure, member center, Token trading market, exchange, financing application, KYC / AML, PoA (Proof of Assets), financing counseling, automatic and semi-automated processes, various database (membership information, transaction history, real property information) ... and other functions of the service system.
+- **Platform**: Financing platform
+    - Integration contract deployment and control
+    - Smart contract model reference (github)
+    - Technical documents
+    - Bond information disclosure
+    - Member center, Token trading market
+    - Exchange center
+    - Financing application
+    - KYC / AML
+    - PoA (Proof of Assets)
+    - Financing counseling
+    - Database (membership information, transaction history, real property information)
 - **Coin**: Refers to a variety of virtual currencies such as BTC (Bitcoin) and ETH (in currency).
 - **Token**: Ownership of bonds issued on this platform.
 - **participant**: Token holders.

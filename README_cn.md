@@ -17,7 +17,7 @@
 
 ----
 
-## 发展蓝图
+## 发展蓝图
 
 [发展蓝图](./ROAD_MAP_cn.md)
 
@@ -46,29 +46,29 @@
 
 ### 产品生命周期
 
-![产品生命周期](./images/Product_Life_Cycle.png)
+![产品生命周期](./images/cn/Product_Life_Cycle.png)
 
 ### 资产证明 / 偿付能力证明
 
 资产验证流程包含资产验证与偿还能力审查。
 
-![资产证明](./images/Proof_of_Assets.png)
+![资产证明](./images/cn/Proof_of_Assets.png)
 
 ### 部署智能合同流程
 
 本平台将辅助创建智能合同，透过资产认证确认标的，选择不同智能合同的范本产生对应的令牌。
 
-![部署智能合同流程](./images/Deploy_Smart_Contract.png)
+![部署智能合同流程](./images/cn/Deploy_Smart_Contract.png)
 
 ### 转让令牌流程
 
 令牌交易流程，次级市场交易模式
 
-![转让令牌流程](./images/Token_Trade.png)
+![转让令牌流程](./images/cn/Token_Trade.png)
 
 ### 利息/股利流程
 
-![利息/股利流程](./images/Issue_Interest_Flow.png)
+![利息/股利流程](./images/cn/Issue_Interest_Flow.png)
 
 ## 资产证明/偿付能力/加密资产审计证明
 

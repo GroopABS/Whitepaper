@@ -47,29 +47,29 @@
 
 ### Product Life Cycle
 
-![Product Life Cycle](./images/Product_Life_Cycle.png)
+![Product Life Cycle](./images/zh/Product_Life_Cycle.png)
 
 ### Proof of Assets / Proof of Solvency Process
 
 資產驗證流程包含資產驗證與償還能力審查。
 
-![Proof of Assets](./images/Proof_of_Assets.png)
+![Proof of Assets](./images/zh/Proof_of_Assets.png)
 
 ### Deploy Smart Contract Process
 
 本平台將輔助創建 Smart Contract，透過資產認證確認標的，選擇不同 Smart Contract 的範本產生對應的 Token。
 
-![Deploy Smart Contract](./images/Deploy_Smart_Contract.png)
+![Deploy Smart Contract](./images/zh/Deploy_Smart_Contract.png)
 
 ### Transfer Token Process
 
 Token 交易流程，次級市場交易模式
 
-![Token Trade](./images/Token_Trade.png)
+![Token Trade](./images/zh/Token_Trade.png)
 
 ### Interest/Dividend Process
 
-![Issue Interest](./images/Issue_Interest_Flow.png)
+![Issue Interest](./images/zh/Issue_Interest_Flow.png)
 
 ## Proof of Asset / Proof of Solvency / Cryptographic Assets Audit
 
