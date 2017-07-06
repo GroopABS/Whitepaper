@@ -7,11 +7,11 @@
 ## Abstract
 
 - Digital financing of tangible assets.
-- the use of block chain to the center and non-tampering characteristics, the real assets can be anchored in the block chain.
+- Using the decentralization and unaltered feature of block chain, to anchored the real assets in the block chain system.
 - Issuance of Asset Certificates (Token), provides an open and transparent platform to manage and trade asset certificates (Token).
-- Improved Ethereum through Assets Guaranteed Bonds
+- Improved Ethereum through Asset-Backed Security
 
-## Crowdsale Project
+## Crowdfunding Project
 
 [CABS](./tokens/CABS/CABS_TOKEN_en.md): 2017-07-14 to 2017-08-04
 
@@ -24,26 +24,26 @@
 ## Key Products
 
 - CryptoABS platform
-    - Certificate of Assets.
-    - Certificate of repayment ability.
-    - Provide secondary market transactions.
-    - Assist in creating smart contracts with different asset types.
-    - Certificate of Assets.
-    - audit documents.
+    - Financial Statement.
+    - Certificate of debt-paying ability.
+    - Provide secondary market transactions platform.
+    - Assist in creating Smart contracts with different types of asset.
+    - Proof of Assets.
+    - Auditing documents.
     - Signature of regulatory unit (issuer, auditor).
 - Crypto Asset-Backed Security
-- Every Token has a real asset unit behind it.
+- Every Token has a real asset unit as a collateral.
 - Open Source project
     - Cryptographic Assets Smart Contract Library
 
 
 ## Key Processes
 
-- Construct the CryptoABS platform.
-- Build a Proof of Asset service that produces credit ratings for individual Assets.
-- the structure of the real assets and Ethereum bridge, with the asset certificate (Token) to replace the physical assets, so that assets through Smart Contract a subsidiary to trade assets.
-- Smart Contract Library with various asset types, including Stock, Bonds.
-Constructing the Trust Model of Multi - party Participant Supervision.
+- Build the CryptoABS platform.
+- Build a "Proof of Asset" service that produces credit ratings system for individual Assets.
+- Construct the bridge between real assets and Ethereum, with the asset certificate (Token) to replace the physical assets, to trade assets through the Smart Contract.
+- Smart Contract Library with various types of asset, including Stock, Bonds.
+- Construct the Trust Model of Multi-party participant supervision & control.
 
 ### Product Life Cycle
 
@@ -51,19 +51,19 @@ Constructing the Trust Model of Multi - party Participant Supervision.
 
 ### Proof of Assets / Proof of Solvency Process
 
-The asset verification process includes asset verification and repayment capacity review.
+The asset verification process includes asset verification and debt-paying ability review.
 
 ![Proof of Assets](./images/en/Proof_of_Assets.png)
 
 ### Deploy Smart Contract Process
 
-This platform will help create Smart Contract, identify the subject with asset authentication, and select the template for the different Smart Contract to generate the corresponding Token.
+Our platform help creating Smart Contracts, identify the subject with asset authentication, and select the template for the different Smart Contract to generate the corresponding Token.
 
 ![Deploy Smart Contract](./images/en/Deploy_Smart_Contract.png)
 
 ### Transfer Token Process
 
-Token trading process, sub - market trading model
+Token trading process, second market
 
 ![Token Trade](./images/en/Token_Trade.png)
 
@@ -73,17 +73,17 @@ Token trading process, sub - market trading model
 
 ## Proof of Asset / Proof of Solvency / Cryptographic Assets Audit
 
-Asset certification will verify the certification of assets through multi-party units, and only through the asset certification process can be released Smart Contract to Ethereum block chain.
-Asset certification information will be placed on IPFS, the establishment of a link with the smart contract to facilitate the inspection at any time.
-Repayment capability certification will determine the size of the interest rate and issuance by examining the solvency of the issuer.
+Asset certification process will verify the assets through multi-party units, and only way to released Smart Contract to Ethereum block chain is through the asset certification process .
+Asset certification information will be put on IPFS, and establishment a link of the smart contract to check up at any time.
+Debt-paying ability certification will determine the size of the interest rate and the size of issuance by examining the solvency of the issuer.
 
 ### Proof of Asset Participants
 
-Participants are actual companies or units outside the chain.
+Participants are actual companies or units outside the block chain.
 
 #### Asset issuer
 
-The CryptoABS platform allows any asset-certified asset issuer to issue assets belonging to its own through the platform to anchor the asset and implement the transaction model through Smart Contract.
+The CryptoABS platform allows any asset-certified asset issuer to issue assets through the platform, in order to anchor the asset and implement the transaction model through Smart Contract.
 
 #### Independent auditors
 
@@ -97,37 +97,37 @@ The CryptoABS platform will have a number of independent participants to provide
 
 Smart contract will provide three templates:
 - Bonds
-    - Bond-type smart contract, support periodic interest distribution, repayment after maturity.
+    - Bond-type smart contract, support periodic interest paying, payment due date.
 - Stocks
     - Stock-type smart contract, equity certificate, support dividend payout, allow trading and cash.
 - Assets
-    - Asset-type smart contract, Token is the asset asset carrier, allowing transactions and cash.
+    - Asset-type smart contract, Token is the asset carrier, allowing trading and cash.
 
-Smart contract will provide de-centric trading function:
+Smart contract will provide de-centralized trading function:
 - Order book
 
 ## Oracle Entities
 
-Communicate with external resources through Oracle concepts to get the same information
+Communicate with external resources through Oracle concepts to get the corresponding information
 
 ## Key Benefits
 
 ### Do not need to log in via browser
 
-All asset certification contracts are transparent and transparent through Ethereum for management and verification, using ERC20 interface wallet can be transferred to the Token, and the transaction time is also very short, an average of 15 seconds.
+All asset certification contracts are transparent and 100% through Ethereum for management and verification, can transferred Token by using ERC20 interface wallet, and the average transaction time is 15 seconds only.
 
 ### Transparent asset trading process
 
-The stack of books will automatically save the transaction records.
+The accounting books of Ethereum block chain will automatically save the transaction records.
 
-### Asset vouchers will always exist on the chain
+### Asset vouchers will exist on the chain forever
 
-All the assets are recorded in Ethereum, permanent existence.
-Even if the CryptoABS platform is closed, each contract that has been generated can be recognized and adopted by the courts in national jurisdictions.
+All the assets will be recorded in Ethereum, permanent.
+Even if the CryptoABS platform shut down, each contract that has been generated can be recognized and admitted by the courts in every national jurisdictions.
 
 ## Conclusion
 
-The CryptoABS platform will provide a transparent, easy-to-audit, secure, intelligent contract platform for all intelligent contracts using Ethereum to centralize the consensus system with IPFS in the block chain implementation of Cryptographic Assets.
+The CryptoABS platform will provide a transparent, easy-to-audit, secure smart contract platform for all intelligent contracts, using Ethereum to decentralize the consensus system with IPFS in the block chain implementation of Cryptographic Assets.
 
 ## Further Reading
 Ethereum White Paper: https://github.com/ethereum/wiki/wiki/White-Paper
