@@ -32,7 +32,7 @@
 - The platform distributes interest on a regular basis (ETH / USD exchange rate is last week average) to the contract.
 - The participant solicits interest on the contract and the principal of the refund.
 - Disclosure of the relevant public information, circulation, total amount, and interest paid on the platform.
-- Member Center: ETH (or BTC) account address (without hosting member private key), two-factor verification.
+- Member Center: ETH (or BTC) account address (without hosting member private key),  two-factor verification.
 - Members can view the number of token held by the member on the platform.
 - Members receive relevant updates.
 
