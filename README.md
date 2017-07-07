@@ -21,7 +21,7 @@
 
 ## Road Map
 
-[Road Map](./ROAD_MAP.md)
+See [Road Map](./ROAD_MAP.md) for more details.
 
 ## Key Products
 

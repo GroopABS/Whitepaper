@@ -21,7 +21,7 @@
 
 ## Road Map
 
-[Road Map](./ROAD_MAP_zh.md)
+查看 [Road Map](./ROAD_MAP_zh.md) 獲得更多資訊。
 
 ## Key Products
 
