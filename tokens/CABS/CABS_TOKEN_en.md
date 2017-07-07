@@ -1,5 +1,6 @@
 # CABS Token
 
+## Documents
 CABS Token is a fixed rate ABS
 
 - Public Offer Time: 2017-07-14 01:00 UTC to 2017-08-04
@@ -14,3 +15,7 @@ CABS Token is a fixed rate ABS
 - Interest rate start: 2017-08-04 UTC
 
 During the sale of CABS, the Company reserves the right to suspend the purchase at any time.
+
+## How CABS works
+
+![CryptoABS Flow](./CryptoABS_Flow.png)

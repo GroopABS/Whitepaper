@@ -1,5 +1,6 @@
 # CABS Token
 
+## CABS 资讯
 CABS Token 为固定利率之ABS
 
 - 公开发售时间: 2017-07-14 01:00 UTC to 2017-08-04
@@ -14,3 +15,7 @@ CABS Token 为固定利率之ABS
 - 计息起始: 2017-08-04 UTC
 
 CABS发售期间，本公司保留随时中止购买之权利
+
+## CABS 如何运作
+
+![CryptoABS Flow](./CryptoABS_Flow.png)
