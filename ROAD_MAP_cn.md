@@ -27,7 +27,7 @@
 
 - 结合web technology、automatic backend service及以太坊之智能合约打造发债融资平台，发行可与有形资产作连结之有价证券（即CryptoABS token）。
 - 首发为固定利率债券，其标的资产为车贷，票面金额以美金计价（ETH/USD汇率为上个月之平均值）。
-- 预估首发总金额为 $1,000,000 USD（1 token = $1 USD）。
+- 预估首发总金额为 $1,000,000 USD。
 - 参与者用钱包自行将ETH打入合约购得token。
 - 参与者之间可交换token。
 - 平台以token为依据定期派发利息（ETH/USD汇率为上周平均）至合约。

@@ -27,7 +27,7 @@
 
 - 結合web technology、automatic backend service及以太坊之智能合約打造發債融資平台，發行可與有形資產作連結之有價證券（即CryptoABS token）。
 - 首發為固定利率債券，其標的資產為車貸，票面金額以美金計價（ETH/USD匯率為上個月之平均值）。
-- 預估首發總金額為 $1,000,000 USD（1 token = $1 USD）。
+- 預估首發總金額為 $1,000,000 USD。
 - 參與者用錢包自行將ETH打入合約購得token。
 - 參與者之間可交換token。
 - 平台以token為依據定期派發利息（ETH/USD匯率為上週平均）至合約。

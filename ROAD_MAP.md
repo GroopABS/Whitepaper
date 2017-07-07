@@ -26,7 +26,7 @@
 
 - Build a bond financing platform with web technology, automatic backend service and etherfloft to issue securities that can be linked to tangible assets (ie CryptoABS token).
 - The initial issue of fixed-rate bonds, the underlying assets for the car loan, the face value of the dollar-denominated (ETH / USD exchange rate for the average of the previous month).
-- Estimated total starting amount is $ 1,000,000 USD (1 token = $ 1 USD).
+- Estimated total starting amount is $ 1,000,000 USD.
 - Participants use their wallets to own ETH into the contract.
 - Exchangeable between participants.
 - The platform distributes interest on a regular basis (ETH / USD exchange rate is last week average) to the contract.
