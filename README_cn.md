@@ -16,6 +16,7 @@
 | 令牌 | 众筹期间 |
 |:------|:--------------:|
 | [CABS #1](./tokens/CABS/CABS_TOKEN_cn.md) | 2017-07-14 至 2017-08-04 |
+| [CABS #2](./tokens/CABS_ZZ/CABS_TOKEN_ZZ_cn.md) | 2017-09-30 至 2017-10-30 |
 
 ----
 
