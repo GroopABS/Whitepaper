@@ -6,7 +6,7 @@
 
 ## Abstract
 
-- Digital financing of tangible assets.
+- Crypto-financing with physical assets.
 - Using the decentralization and unaltered feature of block chain, to anchored the real assets in the block chain system.
 - Issuance of Asset Certificates (Token), provides an open and transparent platform to manage and trade asset certificates (Token).
 - Improved Ethereum through Asset-Backed Security
@@ -15,8 +15,12 @@
 
 | Token | Crowdsale time |
 |:------|:--------------:|
+<<<<<<< HEAD
 | [CABS #1](./tokens/CABS/CABS_TOKEN_en.md) | 2017-07-14 to 2017-08-04 |
 | [CABS #2](./tokens/CABS_ZZ/CABS_TOKEN_ZZ_en.md) | 2017-09-30 至 2017-10-30 |
+=======
+| [ABS #1](./tokens/ABS/ABS_TOKEN_en.md) | 2017-07-14 to 2017-08-04 |
+>>>>>>> d9e43d675004d2d1d731bbaf0784a53f6ed084cc
 
 ----
 

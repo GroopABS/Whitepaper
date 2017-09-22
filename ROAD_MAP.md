@@ -10,7 +10,7 @@
     - Member center, Token trading market
     - Exchange center
     - Financing application
-    - KYC / AML
+    - KYC/AML
     - PoA (Proof of Assets)
     - Financing counseling
     - Database (membership information, transaction history, real property information)
@@ -25,14 +25,14 @@
 ## Phase I: CryptoABS Platform (Q3 2017)
 
 - Build a bond financing platform with web technology, automatic backend service and etherfloft to issue securities that can be linked to tangible assets (ie CryptoABS token).
-- The initial issue of fixed-rate bonds, the underlying assets for the car loan, the face value of the dollar-denominated (ETH / USD exchange rate for the average of the previous month).
+- The initial issue of fixed-rate bonds, the underlying assets for the car loan, the face value of the dollar-denominated (ETH/USD exchange rate for the average of the previous month).
 - Estimated total starting amount is $ 1,000,000 USD.
 - Participants use their wallets to own ETH into the contract.
 - Exchangeable between participants.
-- The platform distributes interest on a regular basis (ETH / USD exchange rate is last week average) to the contract.
+- The platform distributes interest on a regular basis (ETH/USD exchange rate is last week average) to the contract.
 - The participant solicits interest on the contract and the principal of the refund.
 - Disclosure of the relevant public information, circulation, total amount, and interest paid on the platform.
-- Member Center: ETH (or BTC) account address (without hosting member private key),  two-factor verification.
+- Member Center: ETH (or BTC) account address (without hosting member private key), two-factor verification.
 - Members can view the number of token held by the member on the platform.
 - Members receive relevant updates.
 
