@@ -15,12 +15,8 @@
 
 | Token | Crowdsale time |
 |:------|:--------------:|
-<<<<<<< HEAD
-| [CABS #1](./tokens/CABS/CABS_TOKEN_en.md) | 2017-07-14 to 2017-08-04 |
-| [CABS #2](./tokens/CABS_ZZ/CABS_TOKEN_ZZ_en.md) | 2017-09-30 至 2017-10-30 |
-=======
-| [ABS #1](./tokens/ABS/ABS_TOKEN_en.md) | 2017-07-14 to 2017-08-04 |
->>>>>>> d9e43d675004d2d1d731bbaf0784a53f6ed084cc
+| [ABS #1](./tokens/CABS/CABS_TOKEN_en.md) | 2017-07-14 to 2017-08-04 |
+| [ABS #2](./tokens/CABS_ZZ/CABS_TOKEN_ZZ_en.md) | 2017-09-30 至 2017-10-30 |
 
 ----
 
